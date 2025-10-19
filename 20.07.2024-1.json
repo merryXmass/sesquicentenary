@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Mcdonald",
+    "age": 42,
+    "address": {
+        "street": "Lester Causeway",
+        "city": "Benjaminstad",
+        "state": "Arkansas",
+        "zip": "39852"
+    },
+    "contact": {
+        "phone": "8584498142",
+        "servicePhone": "800327567"
+    },
+    "birthday": "1983-30-11",
+    "ip": "20.9.62.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful its there relationship film. Camera common course body case six. Apply follow example close make.\nOr free relate brother just. Fire kitchen sea hundred fast. Administration police staff.",
+        "bio": "Any magazine tax suffer matter drive. General food old impact particularly. Grow week important it doctor choice.\nWalk traditional every sell sit above.\nSociety process bring training."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
