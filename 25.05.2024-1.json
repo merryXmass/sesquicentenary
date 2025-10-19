@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Payne",
+    "age": 87,
+    "address": {
+        "street": "Anderson Walk",
+        "city": "West Michael",
+        "state": "Arizona",
+        "zip": "47423"
+    },
+    "contact": {
+        "phone": "001-873-239-3384x3423",
+        "servicePhone": "800155535"
+    },
+    "birthday": "1938-08-02",
+    "ip": "146.239.169.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion artist seek tree me challenge among. Kitchen score save professor me husband foreign.",
+        "bio": "Goal wait situation than. Participant traditional wrong back raise. Color professional national lawyer everything air."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
