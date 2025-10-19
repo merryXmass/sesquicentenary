@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Stephens",
+    "age": 58,
+    "address": {
+        "street": "Natalie Station",
+        "city": "New Dustinborough",
+        "state": "West Virginia",
+        "zip": "43259"
+    },
+    "contact": {
+        "phone": "219.687.9710x107",
+        "servicePhone": "800462475"
+    },
+    "birthday": "1967-22-03",
+    "ip": "176.232.228.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Step talk night national two. Easy you meet should month late. Out would also thus own. Word mother involve happen participant.",
+        "bio": "Main single nor maintain. No question reveal sense.\nTrouble risk under deal one. Then series pretty far. Keep start reach peace. Water area rate its attack address sort."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
