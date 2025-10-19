@@ -1,0 +1,25 @@
+{
+    "name": "Debra Campbell",
+    "age": 41,
+    "address": {
+        "street": "King Loaf",
+        "city": "East Manuelhaven",
+        "state": "California",
+        "zip": "67112"
+    },
+    "contact": {
+        "phone": "331-827-5329",
+        "servicePhone": "800100409"
+    },
+    "birthday": "1984-18-04",
+    "ip": "165.128.20.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty reach pretty partner. Attorney cause ball fly different. Position blood something artist green effort meeting beyond. Sign lose away second sit structure lead street.",
+        "bio": "Because result begin truth. Evening himself light hotel civil use run."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
