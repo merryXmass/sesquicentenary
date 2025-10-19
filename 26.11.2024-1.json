@@ -1,0 +1,25 @@
+{
+    "name": "Christina Liu",
+    "age": 69,
+    "address": {
+        "street": "Amanda Loaf",
+        "city": "Carlport",
+        "state": "Connecticut",
+        "zip": "67417"
+    },
+    "contact": {
+        "phone": "801-309-4296x11567",
+        "servicePhone": "800102404"
+    },
+    "birthday": "1956-09-08",
+    "ip": "42.50.203.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Relate have culture perhaps later boy himself. Notice experience role rest food significant car.\nPositive sit federal. Democrat by ok push others attention black friend.\nIndeed fine Democrat we true.",
+        "bio": "Improve poor game house. Eye former along despite ask add happen. Cost police couple traditional likely TV even continue.\nDetermine design respond Mrs."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
