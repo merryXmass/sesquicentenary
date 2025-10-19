@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Houston",
+    "age": 11,
+    "address": {
+        "street": "Christina Village",
+        "city": "Muellerburgh",
+        "state": "Washington",
+        "zip": "54322"
+    },
+    "contact": {
+        "phone": "+1-481-689-4180",
+        "servicePhone": "800202669"
+    },
+    "birthday": "2014-14-10",
+    "ip": "33.96.58.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Group blood explain perhaps. Whom to can. Wait media stop much pick.\nDeal police collection again world. Somebody off local about benefit sure nothing.",
+        "bio": "Wife grow out brother pick type. Time measure after cut. Especially station over decision fly."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
