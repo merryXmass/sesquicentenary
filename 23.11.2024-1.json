@@ -1,0 +1,25 @@
+{
+    "name": "Janice Ross",
+    "age": 67,
+    "address": {
+        "street": "Chan Orchard",
+        "city": "East Rachel",
+        "state": "Alaska",
+        "zip": "39201"
+    },
+    "contact": {
+        "phone": "(827)394-4824",
+        "servicePhone": "800717840"
+    },
+    "birthday": "1958-17-07",
+    "ip": "37.133.118.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone tell deal behind cup quickly. Long continue number century church federal material.\nWorry wear population expert. Read help end discover dog white. Church cultural discover detail.",
+        "bio": "Suddenly buy a end product candidate. Defense quickly nor daughter happy somebody quickly. Themselves southern son best nearly happen.\nOld southern treat third. Fine long popular song plan."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
