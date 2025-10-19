@@ -1,0 +1,25 @@
+{
+    "name": "Erin Garcia",
+    "age": 27,
+    "address": {
+        "street": "Joshua Square",
+        "city": "New Vanessaview",
+        "state": "West Virginia",
+        "zip": "63150"
+    },
+    "contact": {
+        "phone": "4972882191",
+        "servicePhone": "800868010"
+    },
+    "birthday": "1998-26-11",
+    "ip": "182.207.152.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone compare time plant camera month approach cover. Instead travel player community state. Professor wind result everyone. Health but whom hear.",
+        "bio": "Table too seven sit cover similar. Specific run suggest often nature.\nIndicate around somebody record summer return why. Rule hotel price manager president training."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
