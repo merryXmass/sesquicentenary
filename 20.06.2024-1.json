@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Baker",
+    "age": 6,
+    "address": {
+        "street": "Harrison Island",
+        "city": "Bowenmouth",
+        "state": "Florida",
+        "zip": "70206"
+    },
+    "contact": {
+        "phone": "001-443-667-8451",
+        "servicePhone": "800117327"
+    },
+    "birthday": "2019-20-12",
+    "ip": "64.168.43.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Culture trip very probably determine air food. Beautiful matter audience protect friend pull.\nAnswer professor go statement page. College whose blue have drug old sit.",
+        "bio": "Theory discussion why experience. Rich certainly society far knowledge should civil score. Avoid ready so bill quickly trouble."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
