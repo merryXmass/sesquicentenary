@@ -1,0 +1,25 @@
+{
+    "name": "Christine Tyler",
+    "age": 54,
+    "address": {
+        "street": "Jones Brooks",
+        "city": "Jasonfurt",
+        "state": "California",
+        "zip": "22304"
+    },
+    "contact": {
+        "phone": "292-532-0028x1924",
+        "servicePhone": "800980450"
+    },
+    "birthday": "1971-25-11",
+    "ip": "18.144.150.23",
+    "foo": "bar",
+    "profile": {
+        "about": "Particular often chair tree manager where together. Family culture another. Dog thus son ten lose wear push degree.\nUsually technology mean Mrs. Establish also why theory later training.",
+        "bio": "Then outside because agent property material. Weight might reduce institution. Father particularly thought course ok relate.\nThem everyone forward ever event record evening. Assume success address."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
