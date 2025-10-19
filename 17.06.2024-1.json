@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Jarvis",
+    "age": 73,
+    "address": {
+        "street": "Benjamin Crescent",
+        "city": "Port Laurie",
+        "state": "Colorado",
+        "zip": "74912"
+    },
+    "contact": {
+        "phone": "638-418-4182",
+        "servicePhone": "800596232"
+    },
+    "birthday": "1952-16-06",
+    "ip": "185.161.145.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Run know later some. Look too office dinner edge rule form.\nHappen fear keep first within admit his. Professor national degree cause on party. Environment morning gas raise.",
+        "bio": "Attorney deep budget dinner. Fly produce star indeed.\nVoice throw evidence ability response nor. Increase apply statement tonight.\nChurch model quickly evidence past. Pattern company coach above run."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
