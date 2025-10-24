@@ -1,0 +1,25 @@
+{
+    "name": "Desiree Reilly",
+    "age": 97,
+    "address": {
+        "street": "Taylor Mountains",
+        "city": "South Christinahaven",
+        "state": "Arizona",
+        "zip": "32001"
+    },
+    "contact": {
+        "phone": "+1-335-707-2956",
+        "servicePhone": "800623727"
+    },
+    "birthday": "1928-03-12",
+    "ip": "138.218.4.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Last control man land gas degree help. North answer involve woman.\nChance few point bed wrong cold. Draw man pattern the push during resource.",
+        "bio": "Everyone doctor policy democratic bad physical serve fall. Low mind evening kid conference without. Box how between former."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
