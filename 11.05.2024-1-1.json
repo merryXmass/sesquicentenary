@@ -1,0 +1,25 @@
+{
+    "name": "Diana Sanchez",
+    "age": 37,
+    "address": {
+        "street": "Garcia Crossing",
+        "city": "Serranoville",
+        "state": "New Mexico",
+        "zip": "73371"
+    },
+    "contact": {
+        "phone": "(347)780-8526x452",
+        "servicePhone": "800339907"
+    },
+    "birthday": "1988-02-03",
+    "ip": "68.232.223.178",
+    "foo": "bar",
+    "profile": {
+        "about": "With music especially sense Republican draw. Whom tax sure church.\nAppear everything some born add sea different. These less fear network staff remain.",
+        "bio": "Stay energy forward owner goal participant. Return hope production surface green. Girl three light.\nEvening others station upon say artist hotel."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
