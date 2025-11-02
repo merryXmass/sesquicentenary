@@ -1,0 +1,25 @@
+{
+    "name": "Dalton Mejia",
+    "age": 51,
+    "address": {
+        "street": "Brian Light",
+        "city": "Michaelshire",
+        "state": "North Carolina",
+        "zip": "76775"
+    },
+    "contact": {
+        "phone": "775.263.6117x9844",
+        "servicePhone": "800467360"
+    },
+    "birthday": "1974-11-11",
+    "ip": "40.173.36.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Few because fear score western describe even place. Parent state build body.\nOthers treatment along expert top information. Involve lay travel these wife training.",
+        "bio": "Forget out money from summer. As year energy always learn sort dark. Team however debate score might.\nAlone son kitchen set Congress."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
