@@ -1,0 +1,25 @@
+{
+    "name": "Emily Crawford",
+    "age": 29,
+    "address": {
+        "street": "Sarah Island",
+        "city": "Bryanville",
+        "state": "Florida",
+        "zip": "66289"
+    },
+    "contact": {
+        "phone": "001-984-871-1493",
+        "servicePhone": "800587253"
+    },
+    "birthday": "1996-03-01",
+    "ip": "62.190.118.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Accept foot just quality. Military check allow win create wall.\nSubject set defense determine light heavy. Point degree easy fire spend hour.\nEvent difference as sport matter million painting.",
+        "bio": "War artist hundred thus. Hear either police unit big image. Join mention direction our look magazine food."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
